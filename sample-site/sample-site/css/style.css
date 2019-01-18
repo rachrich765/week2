@@ -1,0 +1,14 @@
+body {
+	background : purple;
+	color : orange;
+	size: 125%;
+	margins: 2%;
+}
+
+p {
+	font-family: Palatino Linotype;
+}
+
+a:focus {
+	color: white;
+}
